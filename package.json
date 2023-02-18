@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ladooniani/dropsuit.git"
+    "url": "git+https://github.com/ladooniani/dropsuit-clnarr.git"
   },
   "keywords": [
     "array cleaning",
@@ -19,9 +19,9 @@
   "author": "Lado Oniani",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ladooniani/dropsuit/issues"
+    "url": "https://github.com/ladooniani/dropsuit-clnarr/issues"
   },
-  "homepage": "https://github.com/ladooniani/dropsuit#readme",
+  "homepage": "https://github.com/ladooniani/dropsuit-clnarr#readme",
   "dependencies": {
     "dropsuit-clnstr": "^1.0.11"
   },
