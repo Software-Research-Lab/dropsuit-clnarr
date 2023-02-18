@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-clnarr",
-  "version": "1.0.8",
+  "version": "1.0.7",
   "description": "DropSuit NLP - clnarr function: A JavaScript and Node.js library for cleaning and formatting arrays",
   "main": "index.js",
   "scripts": {
